@@ -1,0 +1,37 @@
+body{
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: center;
+    font-size: 20px;
+    background: linear-gradient(#80FFDB, #64DFDF, #48BFE3, #5390D9, #5E60CE);
+    background-repeat: round;
+    
+    
+}
+.imagens{
+    width: 300px;
+    height: 300px;
+}
+
+header{
+    display: grid;
+    justify-content: space-evenly;
+    
+    background-size: contain;
+    
+}
+
+main{
+    display: grid;
+    justify-content: space-evenly;
+    
+    align-content: stretch;
+    
+}
+
+footer{
+    display: grid;
+    justify-content: space-evenly;
+    
+    align-content: stretch;
+}
